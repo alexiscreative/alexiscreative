@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alexiscreative
-- 👀 I’m interested in Product Design 
-- 🌱 I’m currently working on https://www.ursor.com/ ...
-- 💞️ I’m looking to collaborate on awesome projects 
+- 👋 Hi, I’m Alexis Bardini
+- 👀 I’m a Product Designer at https://www.finh.cc
+- 🌱 I’m currently working on https://www.ursor.com/
+- 💞️ I’m looking to collaborate on awesome projects, so please reach out
 - 📫 Reach me at https://www.alexisbardini.com/
 
 <!---
